@@ -1,0 +1,28 @@
+{
+  "version": 2,
+  "dgSpecHash": "+ldJzxIK6CE=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Danny Cañas\\source\\REPOS OMAR\\repos\\Interfaz_Datalake\\Panel_DataLake\\Panel_DataLake\\Panel_DataLake.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Danny Cañas\\.nuget\\packages\\entityframework\\6.4.0\\entityframework.6.4.0.nupkg.sha512",
+    "C:\\Users\\Danny Cañas\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\Danny Cañas\\.nuget\\packages\\oracle.manageddataaccess\\12.2.1100\\oracle.manageddataaccess.12.2.1100.nupkg.sha512",
+    "C:\\Users\\Danny Cañas\\.nuget\\packages\\oracle.manageddataaccess.entityframework\\12.2.20190115\\oracle.manageddataaccess.entityframework.12.2.20190115.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1903",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "El paquete \"Newtonsoft.Json\" 12.0.3 tiene una vulnerabilidad de gravedad alta conocida, https://github.com/advisories/GHSA-5crp-9r3c-p9vr",
+      "libraryId": "Newtonsoft.Json",
+      "targetGraphs": [
+        ".NETFramework,Version=v4.8",
+        ".NETFramework,Version=v4.8/win",
+        ".NETFramework,Version=v4.8/win-arm64",
+        ".NETFramework,Version=v4.8/win-x64",
+        ".NETFramework,Version=v4.8/win-x86"
+      ]
+    }
+  ]
+}

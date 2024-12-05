@@ -1,0 +1,40 @@
+C:\Users\ALBAFICA\source\repos\Interfaz_Datalake\Panel_DataLake\Panel_DataLake\bin\Debug\Panel_DataLake.exe.config
+C:\Users\ALBAFICA\source\repos\Interfaz_Datalake\Panel_DataLake\Panel_DataLake\bin\Debug\Panel_DataLake.xml
+C:\Users\ALBAFICA\source\repos\Interfaz_Datalake\Panel_DataLake\Panel_DataLake\bin\Debug\Panel_DataLake.exe
+C:\Users\ALBAFICA\source\repos\Interfaz_Datalake\Panel_DataLake\Panel_DataLake\bin\Debug\Panel_DataLake.pdb
+C:\Users\ALBAFICA\source\repos\Interfaz_Datalake\Panel_DataLake\Panel_DataLake\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ALBAFICA\source\repos\Interfaz_Datalake\Panel_DataLake\Panel_DataLake\bin\Debug\EntityFramework.dll
+C:\Users\ALBAFICA\source\repos\Interfaz_Datalake\Panel_DataLake\Panel_DataLake\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ALBAFICA\source\repos\Interfaz_Datalake\Panel_DataLake\Panel_DataLake\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\ALBAFICA\source\repos\Interfaz_Datalake\Panel_DataLake\Panel_DataLake\bin\Debug\Oracle.ManagedDataAccess.EntityFramework.dll
+C:\Users\ALBAFICA\source\repos\Interfaz_Datalake\Panel_DataLake\Panel_DataLake\bin\Debug\CRpro9.dll
+C:\Users\ALBAFICA\source\repos\Interfaz_Datalake\Panel_DataLake\Panel_DataLake\bin\Debug\CRpro9.pdb
+C:\Users\ALBAFICA\source\repos\Interfaz_Datalake\Panel_DataLake\Panel_DataLake\bin\Debug\CRpro9.dll.config
+C:\Users\ALBAFICA\source\repos\Interfaz_Datalake\Panel_DataLake\Panel_DataLake\obj\Debug\Panel_DataLake.csproj.AssemblyReference.cache
+C:\Users\ALBAFICA\source\repos\Interfaz_Datalake\Panel_DataLake\Panel_DataLake\obj\Debug\Panel_DataLake.Form1.resources
+C:\Users\ALBAFICA\source\repos\Interfaz_Datalake\Panel_DataLake\Panel_DataLake\obj\Debug\Panel_DataLake.Resources.resources
+C:\Users\ALBAFICA\source\repos\Interfaz_Datalake\Panel_DataLake\Panel_DataLake\obj\Debug\Panel_DataLake.csproj.GenerateResource.cache
+C:\Users\ALBAFICA\source\repos\Interfaz_Datalake\Panel_DataLake\Panel_DataLake\obj\Debug\Panel_DataLake.csproj.CoreCompileInputs.cache
+C:\Users\ALBAFICA\source\repos\Interfaz_Datalake\Panel_DataLake\Panel_DataLake\obj\Debug\Panel_Da.A426032A.Up2Date
+C:\Users\ALBAFICA\source\repos\Interfaz_Datalake\Panel_DataLake\Panel_DataLake\obj\Debug\Panel_DataLake.exe
+C:\Users\ALBAFICA\source\repos\Interfaz_Datalake\Panel_DataLake\Panel_DataLake\obj\Debug\Panel_DataLake.pdb
+C:\Users\Danny Cañas\source\REPOS OMAR\repos\Interfaz_Datalake\Panel_DataLake\Panel_DataLake\bin\Debug\Panel_DataLake.exe.config
+C:\Users\Danny Cañas\source\REPOS OMAR\repos\Interfaz_Datalake\Panel_DataLake\Panel_DataLake\bin\Debug\Panel_DataLake.xml
+C:\Users\Danny Cañas\source\REPOS OMAR\repos\Interfaz_Datalake\Panel_DataLake\Panel_DataLake\bin\Debug\Panel_DataLake.exe
+C:\Users\Danny Cañas\source\REPOS OMAR\repos\Interfaz_Datalake\Panel_DataLake\Panel_DataLake\bin\Debug\Panel_DataLake.pdb
+C:\Users\Danny Cañas\source\REPOS OMAR\repos\Interfaz_Datalake\Panel_DataLake\Panel_DataLake\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Danny Cañas\source\REPOS OMAR\repos\Interfaz_Datalake\Panel_DataLake\Panel_DataLake\bin\Debug\EntityFramework.dll
+C:\Users\Danny Cañas\source\REPOS OMAR\repos\Interfaz_Datalake\Panel_DataLake\Panel_DataLake\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Danny Cañas\source\REPOS OMAR\repos\Interfaz_Datalake\Panel_DataLake\Panel_DataLake\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\Danny Cañas\source\REPOS OMAR\repos\Interfaz_Datalake\Panel_DataLake\Panel_DataLake\bin\Debug\Oracle.ManagedDataAccess.EntityFramework.dll
+C:\Users\Danny Cañas\source\REPOS OMAR\repos\Interfaz_Datalake\Panel_DataLake\Panel_DataLake\bin\Debug\CRpro9.dll
+C:\Users\Danny Cañas\source\REPOS OMAR\repos\Interfaz_Datalake\Panel_DataLake\Panel_DataLake\bin\Debug\CRpro9.pdb
+C:\Users\Danny Cañas\source\REPOS OMAR\repos\Interfaz_Datalake\Panel_DataLake\Panel_DataLake\bin\Debug\CRpro9.dll.config
+C:\Users\Danny Cañas\source\REPOS OMAR\repos\Interfaz_Datalake\Panel_DataLake\Panel_DataLake\obj\Debug\Panel_DataLake.csproj.AssemblyReference.cache
+C:\Users\Danny Cañas\source\REPOS OMAR\repos\Interfaz_Datalake\Panel_DataLake\Panel_DataLake\obj\Debug\Panel_DataLake.Form1.resources
+C:\Users\Danny Cañas\source\REPOS OMAR\repos\Interfaz_Datalake\Panel_DataLake\Panel_DataLake\obj\Debug\Panel_DataLake.Resources.resources
+C:\Users\Danny Cañas\source\REPOS OMAR\repos\Interfaz_Datalake\Panel_DataLake\Panel_DataLake\obj\Debug\Panel_DataLake.csproj.GenerateResource.cache
+C:\Users\Danny Cañas\source\REPOS OMAR\repos\Interfaz_Datalake\Panel_DataLake\Panel_DataLake\obj\Debug\Panel_DataLake.csproj.CoreCompileInputs.cache
+C:\Users\Danny Cañas\source\REPOS OMAR\repos\Interfaz_Datalake\Panel_DataLake\Panel_DataLake\obj\Debug\Panel_Da.A426032A.Up2Date
+C:\Users\Danny Cañas\source\REPOS OMAR\repos\Interfaz_Datalake\Panel_DataLake\Panel_DataLake\obj\Debug\Panel_DataLake.exe
+C:\Users\Danny Cañas\source\REPOS OMAR\repos\Interfaz_Datalake\Panel_DataLake\Panel_DataLake\obj\Debug\Panel_DataLake.pdb

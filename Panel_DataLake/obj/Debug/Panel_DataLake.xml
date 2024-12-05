@@ -1,0 +1,41 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Panel_DataLake
+</name>
+</assembly>
+<members>
+<member name="T:Panel_DataLake.My.Resources.Resources">
+<summary>
+  Clase de recurso fuertemente tipado, para buscar cadenas traducidas, etc.
+</summary>
+</member>
+<member name="P:Panel_DataLake.My.Resources.Resources.ResourceManager">
+<summary>
+  Devuelve la instancia de ResourceManager almacenada en caché utilizada por esta clase.
+</summary>
+</member>
+<member name="P:Panel_DataLake.My.Resources.Resources.Culture">
+<summary>
+  Reemplaza la propiedad CurrentUICulture del subproceso actual para todas las
+  búsquedas de recursos mediante esta clase de recurso fuertemente tipado.
+</summary>
+</member>
+<member name="T:Panel_DataLake.CConfig">
+ <summary>
+ Clase para guardar Parametros de configuracion en un XML Version 3.5
+ </summary>
+ <remarks></remarks>
+</member>
+<member name="M:Panel_DataLake.CConfig.GuardarNodosConAtributos(System.String,System.String,System.String,System.Collections.Generic.List{Panel_DataLake.NodoConAtributos})">
+ <summary>
+ En esta Funcion el nombre de se guarda una lista de nodos con sus respectivos atributos
+ </summary>
+ <param name="NodoPadre"></param>
+ <param name="NodoLeer"></param>
+ <param name="NodosConAtributos"></param>
+ <remarks></remarks>
+</member>
+</members>
+</doc>

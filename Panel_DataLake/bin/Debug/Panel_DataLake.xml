@@ -1,0 +1,205 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Panel_DataLake</name>
+    </assembly>
+    <members>
+        <member name="T:Panel_DataLake.My.Resources.Resources">
+            <summary>
+            Clase de recurso fuertemente tipado, para buscar cadenas traducidas, etc.
+            </summary>
+        </member>
+        <member name="P:Panel_DataLake.My.Resources.Resources.ResourceManager">
+            <summary>
+            Devuelve la instancia de ResourceManager almacenada en caché utilizada por esta clase.
+            </summary>
+        </member>
+        <member name="P:Panel_DataLake.My.Resources.Resources.Culture">
+            <summary>
+            Reemplaza la propiedad CurrentUICulture del subproceso actual para todas las
+            búsquedas de recursos mediante esta clase de recurso fuertemente tipado.
+            </summary>
+        </member>
+        <member name="T:Panel_DataLake.CConfig">
+            <summary>
+            Clase para guardar Parametros de configuracion en un XML Version 3.5
+            </summary>
+            <remarks></remarks>
+        </member>
+        <member name="M:Panel_DataLake.CConfig.GuardarNodosConAtributos(System.String,System.String,System.String,System.Collections.Generic.List{Panel_DataLake.NodoConAtributos})">
+            <summary>
+            En esta Funcion el nombre de se guarda una lista de nodos con sus respectivos atributos
+            </summary>
+            <param name="NodoPadre"></param>
+            <param name="NodoLeer"></param>
+            <param name="NodosConAtributos"></param>
+            <remarks></remarks>
+        </member>
+        <member name="P:Panel_DataLake.Campo.Encriptar">
+            <summary>
+            Indica si el campo debe ser encriptado.
+            </summary>
+        </member>
+        <member name="T:Panel_DataLake.Credenciales">
+            <summary>
+            Representa las credenciales necesarias para conectarse a una plataforma.
+            </summary>
+        </member>
+        <member name="P:Panel_DataLake.Credenciales.plataforma">
+            <summary>
+            Plataforma a la que se conecta.
+            </summary>
+        </member>
+        <member name="P:Panel_DataLake.Credenciales.ip">
+            <summary>
+            Dirección IP de la plataforma.
+            </summary>
+        </member>
+        <member name="P:Panel_DataLake.Credenciales.puerto">
+            <summary>
+            Puerto de conexión.
+            </summary>
+        </member>
+        <member name="P:Panel_DataLake.Credenciales.usuario">
+            <summary>
+            Nombre de usuario para la conexión.
+            </summary>
+        </member>
+        <member name="P:Panel_DataLake.Credenciales.password">
+            <summary>
+            Contraseña para la conexión.
+            </summary>
+        </member>
+        <member name="P:Panel_DataLake.Credenciales.db">
+            <summary>
+            Base de datos a la que se conecta.
+            </summary>
+        </member>
+        <member name="P:Panel_DataLake.Credenciales.proveedor">
+            <summary>
+            Proveedor de la base de datos.
+            </summary>
+        </member>
+        <member name="T:Panel_DataLake.CredenEndInv">
+            <summary>
+            Representa las credenciales necesarias para el inventario final.
+            </summary>
+        </member>
+        <member name="P:Panel_DataLake.CredenEndInv.url">
+            <summary>
+            URL del inventario final.
+            </summary>
+        </member>
+        <member name="P:Panel_DataLake.CredenEndInv.token">
+            <summary>
+            Token de acceso para el inventario final.
+            </summary>
+        </member>
+        <member name="P:Panel_DataLake.CredenEndMovimientos.url">
+            <summary>
+            URL del inventario final.
+            </summary>
+        </member>
+        <member name="P:Panel_DataLake.CredenEndMovimientos.token">
+            <summary>
+            Token de acceso para el inventario final.
+            </summary>
+        </member>
+        <member name="T:Panel_DataLake.ConfStock">
+            <summary>  
+            Configuración del stock.  
+            </summary>  
+        </member>
+        <member name="P:Panel_DataLake.ConfStock.tiempo">
+            <summary>  
+            Tiempo de configuración.  
+            </summary>  
+        </member>
+        <member name="P:Panel_DataLake.ConfStock.TiempoEjec">
+            <summary>  
+            Tiempo de ejecución.  
+            </summary>  
+        </member>
+        <member name="P:Panel_DataLake.ConfStock.tiendas">
+            <summary>  
+            Lista de tiendas.  
+            </summary>  
+        </member>
+        <member name="P:Panel_DataLake.ConfStock.Lunes">
+            <summary>  
+            Indica si está activo el lunes.  
+            </summary>  
+        </member>
+        <member name="P:Panel_DataLake.ConfStock.Martes">
+            <summary>  
+            Indica si está activo el martes.  
+            </summary>  
+        </member>
+        <member name="P:Panel_DataLake.ConfStock.Miercoles">
+            <summary>  
+            Indica si está activo el miércoles.  
+            </summary>  
+        </member>
+        <member name="P:Panel_DataLake.ConfStock.Jueves">
+            <summary>  
+            Indica si está activo el jueves.  
+            </summary>  
+        </member>
+        <member name="P:Panel_DataLake.ConfStock.Viernes">
+            <summary>  
+            Indica si está activo el viernes.  
+            </summary>  
+        </member>
+        <member name="P:Panel_DataLake.ConfStock.Sabado">
+            <summary>  
+            Indica si está activo el sábado.  
+            </summary>  
+        </member>
+        <member name="P:Panel_DataLake.ConfStock.Domingo">
+            <summary>  
+            Indica si está activo el domingo.  
+            </summary>  
+        </member>
+        <member name="P:Panel_DataLake.ConfStock.Mail">
+            <summary>  
+            Correo electrónico.  
+            </summary>  
+        </member>
+        <member name="P:Panel_DataLake.ConfStock.filtros">
+            <summary>  
+            Lista de filtros.  
+            </summary>  
+        </member>
+        <member name="P:Panel_DataLake.ConfStock.nodos_json">
+            <summary>  
+            Lista de nodos JSON.  
+            </summary>  
+        </member>
+        <member name="P:Panel_DataLake.ConfStock.Mapeos">
+            <summary>  
+            Lista de mapeos.  
+            </summary>  
+        </member>
+        <member name="P:Panel_DataLake.ConfStock.ecommerce">
+            <summary>  
+            Código de stock de comercio electrónico.  
+            </summary>  
+        </member>
+        <member name="P:Panel_DataLake.ConfStock.api">
+            <summary>  
+            API de stock.  
+            </summary>  
+        </member>
+        <member name="M:Panel_DataLake.Form1.#ctor">
+            <summary>
+            Inicializa una nueva instancia de la clase <see cref="T:Panel_DataLake.Form1"/>.
+            </summary>
+        </member>
+        <member name="M:Panel_DataLake.Form1.Dispose(System.Boolean)">
+            <summary>
+            Libera los recursos no administrados que utiliza el <see cref="T:Panel_DataLake.Form1"/> y, de forma opcional, libera los recursos administrados.
+            </summary>
+            <param name="disposing">true para liberar tanto los recursos administrados como los no administrados; false para liberar solo los recursos no administrados.</param>
+        </member>
+    </members>
+</doc>

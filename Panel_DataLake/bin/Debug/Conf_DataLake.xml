@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Configuracion>
+  <Oracle IP="drrp.skycloudhub.com" Puerto="1521" Usuario="reportuser" Password="KPVngRf1FiQ=" BaseDeDatos="RPROODS" />
+  <Inventario Email="hugo.cerna@ejje.com" Tiempo="200">
+    <Tiendas />
+    <MapeoInventario>
+      <Mapeo DataLake="sku" campo_rpro="I.DESCRIPTION3" Tipo="Inventario" />
+      <Mapeo DataLake="id_sociedad" campo_rpro="SB.SBS_NO" Tipo="Inventario" />
+      <Mapeo DataLake="id_centro" campo_rpro="S.STORE_CODE" Tipo="Inventario" />
+      <Mapeo DataLake="id_almacen" campo_rpro="TRIM('')" Tipo="Inventario" />
+      <Mapeo DataLake="qty" campo_rpro="Q.QTY" Tipo="Inventario" />
+      <Mapeo DataLake="fd" campo_rpro="IP.PRICE" Tipo="Inventario" />
+      <Mapeo DataLake="original_price" campo_rpro="IP.PRICE" Tipo="Precios" />
+      <Mapeo DataLake="regular_price" campo_rpro="IP.PRICE" Tipo="Precios" />
+      <Mapeo DataLake="sociedad" campo_rpro="SC.COD_SOCIEDAD" Tipo="Precios" />
+      <Mapeo DataLake="sku" campo_rpro="I.DESCRIPTION3" Tipo="Precios" />
+    </MapeoInventario>
+    <Filtros Activar="True">
+      <Filtro operador="AND" campo_rpro="V.VEND_CODE" condicion="=" valor="ADIDAS" />
+      <Filtro operador="AND" campo_rpro="I.ACTIVE" condicion="=" valor="1" />
+      <Filtro operador="AND" campo_rpro="I.UPC" condicion="IN" valor="1542215,45578888,996677" />
+    </Filtros>
+  </Inventario>
+  <EndpointInv Url="http://datalake-dev.sportline.com.pa/stocks" Token="prueba" />
+  <InventarioDeltam>
+    <Filtros Activar="True">
+      <Filtro operador="AND" campo_rpro="TRIM(I.ALU)" condicion="=" valor="PRUEBA" />
+    </Filtros>
+    <Tiendas>
+      <Tienda sbs_no="1" store_no="1" />
+      <Tienda sbs_no="1" store_no="2" />
+    </Tiendas>
+  </InventarioDeltam>
+  <ConfTiendas>
+    <ProcesTiendas>
+      <Tienda sbs_no="1" store_no="1" Lunes="C" Hora_Lunes="04:00" Martes="D" Hora_Martes="16:00" Miercoles="P" Hora_Miercoles="20:00" Jueves="D" Hora_Jueves="07:00" Viernes="C" Hora_Viernes="01:00" Sabado="P" Hora_Sabado="12:00" Domingo="C" Hora_Domingo="12:00" />
+      <Tienda sbs_no="1" store_no="1" Lunes="D" Hora_Lunes="03:00" Martes="" Hora_Martes="" Miercoles="D" Hora_Miercoles="22:00" Jueves="" Hora_Jueves="" Viernes="D" Hora_Viernes="07:00" Sabado="D" Hora_Sabado="07:00" Domingo="" Hora_Domingo="" />
+      <Tienda sbs_no="1" store_no="2" Lunes="C" Hora_Lunes="04:00" Martes="D" Hora_Martes="17:00" Miercoles="D" Hora_Miercoles="17:00" Jueves="C" Hora_Jueves="02:00" Viernes="P" Hora_Viernes="14:00" Sabado="" Hora_Sabado="" Domingo="" Hora_Domingo="" />
+      <Tienda sbs_no="1" store_no="4" Lunes="" Hora_Lunes="" Martes="" Hora_Martes="" Miercoles="" Hora_Miercoles="" Jueves="" Hora_Jueves="" Viernes="C" Hora_Viernes="02:00" Sabado="" Hora_Sabado="" Domingo="C" Hora_Domingo="03:00" />
+    </ProcesTiendas>
+  </ConfTiendas>
+  <EndpointPrecios Url="datalake-pr.sportline.com.pa/pricing2" Token="prueba precios" />
+  <EndpointMovimientos Url="datalake-pr.sportline.com.pa/stocks" Token="prueba" />
+  <EmailConfig SmtpServer="smtp-relay.gmail.com" Port="25" Username="notificaciones-datalake@sportline.com.uy" Password="laHGoiP4rCs=" RecipientEmails="omar.funes@ejje.com;sr.vmago@gmail.com" />
+</Configuracion>
