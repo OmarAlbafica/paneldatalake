@@ -1,0 +1,14 @@
+C:\Publicar\Ecommerce\Development\Comun\InventoryEcommerce\PanelEcommerce\CRpro9\bin\Release\CRpro9.dll.config
+C:\Publicar\Ecommerce\Development\Comun\InventoryEcommerce\PanelEcommerce\CRpro9\bin\Release\CRpro9.dll
+C:\Publicar\Ecommerce\Development\Comun\InventoryEcommerce\PanelEcommerce\CRpro9\bin\Release\CRpro9.pdb
+C:\Publicar\Ecommerce\Development\Comun\InventoryEcommerce\PanelEcommerce\CRpro9\bin\Release\EntityFramework.dll
+C:\Publicar\Ecommerce\Development\Comun\InventoryEcommerce\PanelEcommerce\CRpro9\bin\Release\EntityFramework.SqlServer.dll
+C:\Publicar\Ecommerce\Development\Comun\InventoryEcommerce\PanelEcommerce\CRpro9\bin\Release\Oracle.ManagedDataAccess.dll
+C:\Publicar\Ecommerce\Development\Comun\InventoryEcommerce\PanelEcommerce\CRpro9\bin\Release\Oracle.ManagedDataAccess.EntityFramework.dll
+C:\Publicar\Ecommerce\Development\Comun\InventoryEcommerce\PanelEcommerce\CRpro9\bin\Release\EntityFramework.xml
+C:\Publicar\Ecommerce\Development\Comun\InventoryEcommerce\PanelEcommerce\CRpro9\bin\Release\EntityFramework.SqlServer.xml
+C:\Publicar\Ecommerce\Development\Comun\InventoryEcommerce\PanelEcommerce\CRpro9\obj\Release\CRpro9.csprojAssemblyReference.cache
+C:\Publicar\Ecommerce\Development\Comun\InventoryEcommerce\PanelEcommerce\CRpro9\obj\Release\CRpro9.csproj.CoreCompileInputs.cache
+C:\Publicar\Ecommerce\Development\Comun\InventoryEcommerce\PanelEcommerce\CRpro9\obj\Release\CRpro9.csproj.CopyComplete
+C:\Publicar\Ecommerce\Development\Comun\InventoryEcommerce\PanelEcommerce\CRpro9\obj\Release\CRpro9.dll
+C:\Publicar\Ecommerce\Development\Comun\InventoryEcommerce\PanelEcommerce\CRpro9\obj\Release\CRpro9.pdb
